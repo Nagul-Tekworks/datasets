@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,Monthly_Usage_GB,Contract_Type,Last_Contact_Date,Total_Bill,Churn
+1001,25,Male,5.2,Prepaid,2024-01-05,25.6,1
+1002,45,Female,10.5,Postpaid,2024-01-12,75.2,0
+1003,34,Female,8.3,Postpaid,,50.3,0
+1004,50,Male,15.0,Prepaid,2024-02-03,100.8,1
+1005,29,Male,3.7,Prepaid,2024-01-20,15.9,1
+1006,40,Female,9.8,Postpaid,,65.4,0
+1007,60,Male,12.1,Postpaid,2024-02-10,90.0,0
+1008,33,Female,6.4,Prepaid,2024-01-30,30.1,1
+1009,52,Male,14.5,Postpaid,2024-02-05,110.5,0
+1010,28,Female,4.9,Prepaid,2024-01-15,22.4,1
