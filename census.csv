@@ -1,4 +1,5 @@
-﻿73,Highschoolgraduate,Widowed,Female,Nonfiler,1700.09,Notinuniverse,United-States,Native-BornintheUnitedStates,0
+Age,Eduation,Marital_Status,Gender,Tax_Filing_Status,Income,Parents_Status,Country_of_Birth, Nativity status,Weeks_worked
+73,Highschoolgraduate,Widowed,Female,Nonfiler,1700.09,Notinuniverse,United-States,Native-BornintheUnitedStates,0
 58,Somecollegebutnodegree,Divorced,Male,Headofhousehold,1053.55,Notinuniverse,United-States,Native-BornintheUnitedStates,52
 18,10thgrade,Nevermarried,Female,Nonfiler,991.95,Notinuniverse,Vietnam,Foreignborn-NotacitizenofUS,0
 9,Children,Nevermarried,Female,Nonfiler,1758.14,Bothparentspresent,United-States,Native-BornintheUnitedStates,0
